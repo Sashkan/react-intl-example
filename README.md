@@ -19,6 +19,8 @@ In you code, add any messages
     description="Link on react page"/>
 ```
 
+**Notice** When picking an ID, please note that an id such as `product.details.size` will create your translation as `product (folder) => details (folder) => size`
+
 Once you're done, extract them to update your translation files
 
 ```sh
