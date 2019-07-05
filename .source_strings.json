@@ -1,0 +1,19 @@
+{
+ "phrases": [
+  {
+   "hashToText": {
+    "BJj5GnFcg5DWU/fW7CqXRQ==": "Use the form below to see FBT in action."
+   },
+   "filepath": "src/components/TranslatedText/index.js",
+   "line_beg": 15,
+   "col_beg": 8,
+   "line_end": 17,
+   "col_end": 14,
+   "type": "text",
+   "desc": "yet another header",
+   "project": "",
+   "jsfbt": "Use the form below to see FBT in action."
+  }
+ ],
+ "childParentMappings": {}
+}

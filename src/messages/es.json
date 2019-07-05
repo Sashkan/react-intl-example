@@ -1,0 +1,5 @@
+{
+	"cart.content": "Tienes {cartCount, number} {cartCount, plural,\n                      one {producto}\n                      other {productos}\n                    } en tu cesta",
+	"categories.man": "Hombre",
+	"welcome": ""
+}
